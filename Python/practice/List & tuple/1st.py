@@ -33,3 +33,6 @@ grade.sort()
 print(grade)
 grade.sort(reverse=True)
 print(grade)
+divmod
+divmod
+divmod

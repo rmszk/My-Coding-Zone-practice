@@ -1,4 +1,5 @@
 from collections import deque
+import queue
 #import queue
 
 class Queue:
@@ -17,7 +18,7 @@ class Queue:
     def size(self):
         return len(self.buffer)
     
-    pq = Queue()
+    pq = queue()
 
     pq.enqueue({
         'Company': 'Wal Mart',
