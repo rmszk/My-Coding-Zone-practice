@@ -48,9 +48,9 @@
 # else: 
 #     print("Not a leap year")
 
-###(6)
-alph = input("Please give me Character:")
-if alph in "aeiouAEIOU":
-    print("Its a Vowel",alph)
-else:
-    print("Its a consonent",alph)
+# ###(6)
+# alph = input("Please give me Character:")
+# if alph in "aeiouAEIOU":
+#     print("Its a Vowel",alph)
+# else:
+#     print("Its a consonent",alph)
